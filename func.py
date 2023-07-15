@@ -1,3 +1,3 @@
 def get_number():
-    return 2
+    return 3
 
